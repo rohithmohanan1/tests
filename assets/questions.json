@@ -1,0 +1,82 @@
+[{
+         "question": "Is Python case sensitive when dealing with identifiers?",
+         "options": ["A. Yes",
+         "B. No",
+         "C. Machine Dependent",
+         "D. None of the Above"],
+         "answer": "A. Yes"
+},
+{
+          "question": "What is the maximum possible length of an identifier?",
+          "options": ["A. 31 Characters",
+          "B. 63 Characters",
+          "C. 79 Characters",
+          "D. None of the Above"],
+          "answer": "D. None of the Above"
+},
+{
+          "question": "Which of the following is not a keyword?",
+          "options": ["A. eval",
+          "B. assert",
+          "C. nonlocal",
+          "D. pass"],
+          "answer": "A. eval"
+},
+{
+         "question": "Which of the following is true for variable names in Python?",
+          "options": ["A. Unlimited Length",
+          "B. All private members must have leading and trailing underscores",
+          "C. Underscore and ampersand are the only two special characters allowed",
+          "D. None of the Above"],
+          "answer": "A. Unlimited Length"
+},
+{
+        "question": "Which of the following is an invalid statement?",
+        "options": ["A. abc = 1,000,000",
+        "B. a b c = 1000 2000 3000",
+        "C. a,b,c = 1000, 2000, 3000",
+        "D. All of the Above"],
+        "answer": "B. a b c = 1000 2000 3000"
+},
+{
+        "question": "What is the answer to this expression, 22 % 3 is?",
+        "options": ["A. 7",
+        "B. 1",
+        "C. 0",
+        "D. 5"],
+        "answer": "B. 1"
+},
+{
+        "question": "Operators with the same precedence are evaluated in which manner?",
+        "options": ["A. Right - Left",
+        "B. Left - Right",
+        "C. Undetermind",
+        "D. None of thr Above"],
+        "answer": "B. Left - Right"
+},
+{
+      "question": "Which one of the following has the highest precedence in the expression?",
+      "options": ["A. Exponential",
+      "B. Addition",
+      "C. Multiplication",
+      "D. Parentheses"],
+      "answer": "D. Parentheses "
+},
+{
+       "question": "Which of the following operators has the highest precedence?",
+       "options": ["A. not",
+       "B. &",
+       "C. *",
+       "D. +"],
+       "answer": "C. *"
+},
+{
+       "question": "What is the output of the following code?\n\nx = 100\ny = 50\nprint(x and y)",
+       "options": ["A. True",
+       "B. 100",
+       "C. False",
+       "D. 50"],
+       "answer": "D. 50"
+}
+
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Which of the following is the example of High Level Language?",
+        "options": ["A. Python",
+                    "B. C",
+                    "C. Cpp",
+                    "D. Assembly Language"],
+        "answer": "A. Python"
+    },
+
+    {
+        "question": "Which of the following is not a feature of Machine Language?",
+        "options": ["A. It is faster",
+                    "B. Needs a translator software",
+                    "C. Very efficient",
+                    "D. Can execute directly"],
+        "answer": "B. Needs a translator software"
+    },
+
+    {
+        "question": "Which of the following is belongs to interpreter?",
+        "options": ["A. Create Object code",
+                    "B. Need to transate on every run",
+                    "C. Takes the whole program at once",
+                    "D. Errors will show at first"],
+        "answer": "B. Need to transate on every run"
+    },
+
+    {
+        "question": "Second step in problem solving procees is to?",
+        "options": ["A. Practicing the solution",
+                    "B. Organizing the data",
+                    "C. Design a solution",
+                    "D. Define a problem"],
+        "answer": "C. Design a solution"
+    },
+
+    {
+        "question": "Thing to keep in mind while solving a problem",
+        "options": ["A. Input data",
+                    "B. Output data",
+                    "C. Stored Data",
+                    "D. All of the above"],
+        "answer": "D. All of the above"
+    },
+
+    {
+        "question": "In flow chart a diamond shaped symbol is used to represent?",
+        "options": ["A. Decision box",
+                    "B. statement box",
+                    "C. Error box",
+                    "D. Condition box"],
+        "answer": "A. Decision box"
+    },
+
+    {
+        "question": "Part of algorithm which is repeated for the fixed number of times is classified as?",
+        "options": ["A. Iteration",
+                    "B. selection",
+                    "C. Sequnce",
+                    "D. Reverse action"],
+        "answer": "A. Iteration"
+    },
+    {
+        "question": "To write a program for the sum of 4 integers, the program refinement first level includes ?",
+        "options": ["A. Calculate sum",
+                    "B. Print the values",
+                    "C. Input four numbers",
+                    "D. display the values"],
+        "answer": "C. Input four numbers"
+    },
+
+    {
+        "question": "Method used in writing and designing of a program is termed as?",
+        "options": ["A. Bottom-up design",
+                    "B. Top-down design",
+                    "C. Split method",
+                    "D. binary states method"],
+        "answer": "B. Top-down design"
+    },
+
+    {
+        "question": "Program which interprets each line of high level program at the time of execution is called?",
+        "options": ["A. Instructor",
+                    "B. Interpreter",
+                    "C. Translator",
+                    "D. Executor"],
+        "answer": "B. Interpreter"
+    }
+]
