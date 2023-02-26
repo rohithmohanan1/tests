@@ -9,7 +9,7 @@ def play():
 	crr = 0
 	fal = []
 	k =1
-	with open("assets/mod1.json", 'r+') as f:
+	with open("assets/mod2.json", 'r+') as f:
 		j = json.load(f)
 		for i in range(10):
 			no_of_questions = len(j)
