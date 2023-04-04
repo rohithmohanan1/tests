@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What is the output when we execute list(“hello”)?",
+        "options": ["A. ['h', 'e,' 'l', 'l', 'o']",
+                    "B. ['hello']",
+                    "C. ['llo']",
+                    "D. ['olleh']"],
+        "answer": "A. ['h', 'e,' 'l', 'l', 'o']"
+    },
+
+    {
+        "question": "Suppose list1 is [2445,133,12454,123], what is max(list1)?",
+        "options": ["A. 2445",
+                    "B. 133",
+                    "C. 12345",
+                    "D. 123"],
+        "answer": "C. 1234"
+    },
+
+    {
+        "question": "To shuffle the list(say list1) what function do we use?",
+        "options": ["A. list1.shuffle()",
+                    "B. shuffle(list1)",
+                    "C. random.shuffleList(list1)",
+                    "D. None of the above"],
+        "answer": "D. None of the above"
+    },
+
+    {
+        "question": "Suppose list1 is [2, 33, 222, 14, 25], What is list1[:-1]?",
+        "options": ["A. [2, 33, 222, 14]",
+                    "B. Error",
+                    "C. 25",
+                    "D. [25, 14, 222, 33, 2]"],
+        "answer": "A. [2, 33, 222, 14]"
+    },
+
+    {
+        "question": "Output of the following code?\n L = [1*x for x in range(10, 1, -1)]\nprint(L)]",
+        "options": ["A. [10, 6, 2]",
+                    "B. [10, 7, 4]",
+                    "C. Error",
+                    "D. None of the above"],
+        "answer": "A. [10, 6, 2]"
+    },
+
+    {
+        "question": "Output of the following code?\na=\"We\nto my \nb\t ok\"\n",
+        "options": ["A. We\nto my\nb\tok\n",
+                    "B. \nWe\nto myb ok\n",
+                    "C. Weto\nmy\nb\tok\n",
+                    "D. none, it just throw an error"],
+        "answer": "A. We\nto my\nb\tok\n"
+    },
+
+    {
+        "question": "Which of the following is the output of the code?\nstr=\"Welcome\"\nstr = 'a'\nprint(str)",
+        "options": ["A. Weacome",
+                    "B. Error",
+                    "C. aWelcome",
+                    "D. Welcomea"],
+        "answer": "B. Error"
+    },
+
+    {
+        "question": "What type of error is returned by the following code:\nstr = \"Learning\"\nprint(str[10])",
+        "options": ["A. Error in index",
+                    "B. Index out of range in string",
+                    "C. IndexError",
+                    "D. None of the above"],
+        "answer": "C. IndexError"
+    },
+
+    {
+        "question": "Which character will have same index value when \nyou access elements from the beginning and from the \nend(ignore the negative sign) in the following string?\ns = \"Welcome to my blog\"",
+        "options": ["A. 't'",
+                    "B. ''",
+                    "C. 'o'",
+                    "D. 'l'"],
+        "answer": "C. 'o'"
+    },
+
+    {
+        "question": "Which operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    },
+
+    {
+        "question": "Whiich operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    },
+
+    {
+        "question": "Whiich operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    },
+
+    {
+        "question": "Whiich operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    },
+
+    {
+        "question": "Whiich operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    },
+
+    {
+        "question": "Whiich operator is used with integers as well as with strings?",
+        "options": ["A. /",
+                    "B. //",
+                    "C. **",
+                    "D. *"],
+        "answer": "D. *"
+    }
+]

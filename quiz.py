@@ -9,7 +9,7 @@ def play():
 	crr = 0
 	fal = []
 	k =1
-	with open("assets/mod2.json", 'r+') as f:
+	with open("assets/mod3.json", 'r+') as f:
 		j = json.load(f)
 		for i in range(10):
 			no_of_questions = len(j)
@@ -102,7 +102,7 @@ Your final score will be given at the end.
 	''')
 
 """def about():
-	print('''\n==========ABOUT US========== It is a basic Python Project for my Pythom Students to Test.''')"""
+	print('''\n==========ABOUT US========== It is a basic Python Project for my Python Students to Test.''')"""
 
 if __name__ == "__main__":
 	choice = 1
